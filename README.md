@@ -96,4 +96,12 @@ Custom Textures & Models: Various textures and models are used for the blocks.
 
 Feel free to contribute or fork the repository to create your own version of the game!
 ```
+## Screenshots
 
+![minecraft_1](https://github.com/user-attachments/assets/7781ae56-bfad-45b0-87b5-a66ca669018c)
+
+![minecraft_5](https://github.com/user-attachments/assets/cb91d5d0-2c16-4961-a65c-cc3a86e68d2b)
+
+![minecraft_3](https://github.com/user-attachments/assets/9904a34c-2ecf-4522-b128-7ab6a83c6fea)
+
+![minecraft_2](https://github.com/user-attachments/assets/fdb65807-66ff-44ab-82e4-250ee078fe96)
